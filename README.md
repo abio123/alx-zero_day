@@ -1,2 +1,2 @@
-my first readme
-staying stronger everyday
+staying stroger everyday
+
